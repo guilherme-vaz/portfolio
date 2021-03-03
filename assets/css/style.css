@@ -378,14 +378,14 @@ img {
 }
 
 .skills__html{
-    width: 80%;
+    width: 95%;
 }
 
 .skills__js{
-    width: 30%;
+    width: 80%;
 }
 
-.skills__bs{
+.skills__react{
     width: 70%;
 }
 
@@ -394,7 +394,7 @@ img {
 }
 
 .skills__django{
-    width: 70%;
+    width: 40%;
 }
 
 .skills__node{
@@ -558,6 +558,8 @@ img {
     transition: .3s;
 }
 
+
+
 .works__link{
     display: inline-flex;
     font-size: 1.5rem;
@@ -575,6 +577,7 @@ img {
 
 .works__data p {
     color: ivory;
+    text-align: center;
 }
 
 .works__img:hover .works__data{
