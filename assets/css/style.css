@@ -103,8 +103,12 @@ img {
 .section-title{
     font-size: var(--h1-font-size);
     color: var(--first-color);
-    /* margin-bottom: 1rem; */
+    margin-bottom: 2rem;
     text-align: center;
+}
+
+#works .section-title {
+    margin-bottom: 0;
 }
 
 .section-subtitle{
@@ -388,6 +392,10 @@ img {
 
 .skills__html{
     width: 95%;
+}
+
+.skills__sass{
+    width: 80%;
 }
 
 .skills__js{
