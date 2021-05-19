@@ -2,11 +2,13 @@
 <p>Meu nome é Guilherme Vaz, tenho 24 anos e sou bacharel em Ciência da Computação!</p>
 <p>Fiz esse portfólio para tentar destacar algumas de minhas habilidades que envolvem:
     <ul>
-      <li>HTML/CSS</li>
-      <li>Javascript</li>
-      <li>Python</li>
+      <li>HTML/CSS.</li>
+      <li>Javascript.</li>
+      <li>Python.</li>
     </ul>
 </p>
+
+O portfólio completo pode ser acessado por <a href="https://guilhermevaz.vercel.app">aqui.</a>
 
 # ⚡ Alguns projetos 
 <p>Projetos envolvendo HTML, CSS, Sass e Javascript. Todos mobile friendly.</p>
